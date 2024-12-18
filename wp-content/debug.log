@@ -1,0 +1,3 @@
+[18-Dec-2024 11:54:27 UTC] PHP Warning:  Undefined variable $base_url in C:\xampp\htdocs\shoppers\wp-content\themes\editease\inc\editease-functions.php on line 409
+[18-Dec-2024 11:54:27 UTC] PHP Warning:  Undefined variable $base_blog_url in C:\xampp\htdocs\shoppers\wp-content\themes\editease\inc\editease-functions.php on line 410
+[18-Dec-2024 11:54:28 UTC] PHP Warning:  Undefined array key "user_pass" in C:\xampp\htdocs\shoppers\wp-includes\user.php on line 2153
