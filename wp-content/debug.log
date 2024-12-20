@@ -1,10 +1,1 @@
-[18-Dec-2024 11:54:27 UTC] PHP Warning:  Undefined variable $base_url in C:\xampp\htdocs\shoppers\wp-content\themes\editease\inc\editease-functions.php on line 409
-[18-Dec-2024 11:54:27 UTC] PHP Warning:  Undefined variable $base_blog_url in C:\xampp\htdocs\shoppers\wp-content\themes\editease\inc\editease-functions.php on line 410
-[18-Dec-2024 11:54:28 UTC] PHP Warning:  Undefined array key "user_pass" in C:\xampp\htdocs\shoppers\wp-includes\user.php on line 2153
-[18-Dec-2024 13:11:33 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\shoppers\wp-admin\includes\class-wp-filesystem-direct.php on line 82
-[19-Dec-2024 04:56:08 UTC] Automatic updates starting...
-[19-Dec-2024 04:56:09 UTC] Automatic updates complete.
-[19-Dec-2024 06:38:34 UTC] Automatic updates starting...
-[19-Dec-2024 06:38:34 UTC] Automatic updates complete.
-[20-Dec-2024 05:03:24 UTC] Automatic updates starting...
-[20-Dec-2024 05:03:27 UTC] Automatic updates complete.
+[20-Dec-2024 07:40:52 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\shoppers\wp-content\plugins\woocommerce\assets\client\blocks\blocks-components.asset.php on line 1
